@@ -1,7 +1,6 @@
 - 👋 Olá, eu sou @nevitoniuri
 - 👀 Curso Ciência da Computação no IFCE, tenho interesse nas áreas de programação, tecnologia, cinema, audiovisual e vídeo games.
-- 🌱 Estou atualmente aprendendo Front-End
-- 💞️ Estou buscando estágio na área de TI/programação
+- 🌱 Estou atualmente aprendendo Java
 - 📫 Como me encontrar: (85) 98938-7977
 
 <!---
