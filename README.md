@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @nevitoniuri
-- :nerd_face:🌱	Sou estagiário de Desenvolvimento de Software, atualmente aprendendo Java.
-- 👀 Curso Ciência da Computação no IFCE, tenho interesse nas áreas de programação, tecnologia, cinema, audiovisual e vídeo games.
+- 🌱Sou estagiário de Desenvolvimento de Software
+- 👀 Comecei aprendendo sobre HTML, CSS e JS, e agora estou me aventurando no mundo do Java.
 - 📫 Como me encontrar: 
    :iphone: (85) 98938-7977;    
    :clipboard: https://www.linkedin.com/in/nevitoniuri/
