@@ -9,23 +9,26 @@ Olá, meu nome é Iuri Néviton. Sou Estagiário de Desenvolvimento de Software 
 Sou apaixonado por Tecnologia, Inovação e Software. <br>
 Estou atuando como desenvolvedor Java, utilizando Spring, JPA, Java Web e Banco de Dados SQL.
 
+
 ## Technologies :hammer_and_wrench:
 - Back-end com Java, JPA, Spring
 - Front-end com HTML, CSS, JS, Java Web
 - Estudando React/Angular nas horas vagas
 
-**Languages and Tools:** 
+ ## Languages and Tools
+  <div>
+  <a href="https://github.com/nevitoniuri">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevitoniuri&layout=compact&langs_count=7&theme=dracula" />
+  </a>
+ </div>
 
  <img height="50" align="left" alt="Java" height="100"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  <img height="50" align="left" alt="Spring" height="100"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
  <img height="50" align="left" alt="HTML" height="100"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img height="50" align="left" alt="Postgres" height="100"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
  <img height="50" align="left" alt="Git" height="100"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"> 
- 
- 
- <br>
- 
 
+ <br>
 
 ##
 
