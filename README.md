@@ -29,8 +29,9 @@ Estou atuando como desenvolvedor Java, utilizando Spring, JPA, Java Web e Banco 
  <img height="50" align="left" alt="Git" height="100"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"> 
 
  <br>
+ <br>
 
-##
+
 
 ## Bio - Portfolio 💼
 
