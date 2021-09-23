@@ -16,11 +16,11 @@ Estou atuando como desenvolvedor Java, utilizando Spring, JPA, Java Web e Banco 
 - Estudando React/Angular nas horas vagas
 
  ## Languages and Tools
-  <div>
+ <!--- <div>
   <a href="https://github.com/nevitoniuri">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevitoniuri&layout=compact&langs_count=7&theme=dracula" />
   </a>
- </div>
+ </div>--->
 
  <img height="50" align="left" alt="Java" height="100"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  <img height="50" align="left" alt="Spring" height="100"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
