@@ -1,59 +1,15 @@
-# <a href="https://bio-nevitoniuri.vercel.app/" target="_blank">Iuri Néviton 👋</a>
+## <a href="https://bio-nevitoniuri.vercel.app/" target="_blank">Sobre mim</a>
+````bash
+> Desenvolvedor de Software Trainee na Boavista Tecnologia;
+> Aluno de Ciência da Computação no IFCE;
+````
+Sou curioso por natureza, procuro entender como as coisas realmente funcionam. Fascinado por solucionar problemas de forma criativa através da tecnologia e inovação. Gosto de arquitetura de software e estou estudando React para me tornar um desenvolvedor Fullstack.
 
-<a href="https://bio-nevitoniuri.vercel.app/" target="_blank">
-<img src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
-</a>
+## Linguagens, Tecnologias e Ferramentas
+Experiência em desenvolvimento de APIs REST com Hibernate, JPA, Spring Framework (Spring Boot, Spring Security, Spring Cloud, Spring Data JPA), Lombok, Maven, Testes unitários (JUnit 5, Mockito, MockMVC), Versionamento (Git, Gitlab e Github) e Bancos de dados SQL (PostgreSQL). Também utilizando arquitetura de Microserviços (API Gateway, Eureka Server, Docker), Ferramentas de segurança (OAuth2, JWT) e Metodologias ágeis (Scrum e Kanban com as ferramentas Jira e Miro).
 
-## About Me :earth_americas:
-Olá, meu nome é Iuri Néviton. Sou Estagiário de Desenvolvimento de Software e aluno de Ciência da Computação no IFCE. <br>
-Sou apaixonado por Tecnologia, Inovação e Software. <br>
-Estou atuando como desenvolvedor Java, utilizando Spring, JPA, Java Web e Banco de Dados SQL.
-
-
-## Technologies :hammer_and_wrench:
-- Back-end com Java, JPA, Spring
-- Front-end com HTML, CSS, JS, Java Web
-- Estudando React/Angular nas horas vagas
-
- ## Languages and Tools
- <!--- <div>
-  <a href="https://github.com/nevitoniuri">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevitoniuri&layout=compact&langs_count=7&theme=dracula" />
-  </a>
- </div>--->
-
- <img height="50" align="left" alt="Java" height="100"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- <img height="50" align="left" alt="Spring" height="100"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
- <img height="50" align="left" alt="HTML" height="100"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img height="50" align="left" alt="Postgres" height="100"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
- <img height="50" align="left" alt="Git" height="100"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"> 
-
- <br>
- <br>
-
-
-
-## Bio - Portfolio 💼
-
-<a href="https://bio-nevitoniuri.vercel.app/" target="_blank">
-   <img src="https://img.icons8.com/dusk/50/000000/contract-job.png"/>
-</a>
-
-
-
-
-## Experiência de trabalho :man_technologist:
-
-[<img align="left" height="30px"  alt="Boavista" src="https://boavistatecnologia.com.br/wp-content/themes/atratis/build/images/logo.png"/>](https://boavistatecnologia.com.br/)
-
-[**Boavista Tecnologia**](https://boavistatecnologia.com.br/) \ `Estágio de Desenvolvimento `
-
-## 
-
-
-  
-   
-<!---
-nevitoniuri/nevitoniuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Contato 💼
+````bash
+> linkedin.com/nevitoniuri/
+> Mail at iurineviton@gmail.com
+````
