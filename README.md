@@ -1,6 +1,6 @@
 ## <a href="https://bio-nevitoniuri.vercel.app/" target="_blank">Sobre mim</a>
 ````bash
-> Desenvolvedor de Software Trainee na Boavista Tecnologia;
+> Desenvolvedor de Software na meutudo.;
 > Aluno de Ciência da Computação no IFCE;
 ````
 
