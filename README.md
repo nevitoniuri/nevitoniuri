@@ -1,7 +1,7 @@
 ## <a href="https://bio-nevitoniuri.vercel.app/" target="_blank">Sobre mim</a>
 ````bash
 > Desenvolvedor de Software na meutudo.;
-> Aluno de Ciência da Computação no IFCE;
+> Aluno de Análise e Desenvolvimento de Sistemas na UNIFOR;
 ````
 
 
@@ -11,5 +11,5 @@ Experiência em desenvolvimento de APIs REST com Hibernate, JPA, Spring Framewor
 ## Contato 💼
 ````bash
 > linkedin.com/nevitoniuri/
-> Mail at iurineviton@gmail.com
+> iurineviton@gmail.com
 ````
